@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<application xmlns="http://ns.adobe.com/air/application/1.1">
+    <id>com.motionbox.screwunitautotester</id>
+    <version>0.0.1</version>
+    <name>Screw Unit Autotester</name>
+    <filename>ScrewUnitAutotester</filename>
+    <initialWindow>
+        <content>screwunitautotester.html</content>
+        <visible>true</visible>
+        <resizable>true</resizable>
+        <maximizable>true</maximizable>
+        <width>780</width>
+        <height>780</height>
+    </initialWindow>
+    <allowBrowserInvocation>true</allowBrowserInvocation>
+</application>
